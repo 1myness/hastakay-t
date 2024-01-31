@@ -1,1 +1,1 @@
-bir kaynaktan bakarak, sistemi anlamak icin yaptigim proje
+bir kaynaktan bakarak, sistemi anlamakicin yaptigim proje
